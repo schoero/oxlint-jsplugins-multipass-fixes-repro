@@ -21,7 +21,7 @@ The linter should apply all fixes across multiple passes, resulting no remaining
 
 ### VSCode Extension
 
-When using the VSCode extension, the linter stops applying any fixes to the file. 
+When using the VSCode extension, the linter does not apply any of the fixes as long as they are overlapping.
 
 ### CLI
 
