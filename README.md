@@ -10,8 +10,8 @@ The repository contains a file [`test.jsx`](./test.jsx) with two overlapping lin
 
 1. Clone the repository and navigate to the project directory.
 2. Run `npm install` to install the dependencies.
-3a. Run `npm run lint:fix` to execute the linter and see the behavior via the cli.
-3b. Open [`test.jsx`](./test.jsx) in VSCode and save the file.
+3. Open [`test.jsx`](./test.jsx) in VSCode and save the file.
+4. Run `npm run lint:fix` to execute the linter and see the behavior via the cli.
 
 ## Expected Behavior
 
